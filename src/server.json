@@ -1,0 +1,116 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Compra de equipamentos",
+      "type": "outcome",
+      "category": "Investimento",
+      "price": 5000,
+      "createdAt": "2022-08-01T10:15:30.123Z"
+    },
+    {
+      "id": 3,
+      "description": "Consultoria em marketing",
+      "type": "income",
+      "category": "Serviços",
+      "price": 7500,
+      "createdAt": "2022-08-05T14:22:18.789Z"
+    },
+    {
+      "id": 4,
+      "description": "Pagamento de aluguel",
+      "type": "outcome",
+      "category": "Despesas",
+      "price": 2500,
+      "createdAt": "2022-08-10T08:45:50.567Z"
+    },
+    {
+      "id": 5,
+      "description": "Venda de software",
+      "type": "income",
+      "category": "Produto",
+      "price": 12000,
+      "createdAt": "2022-08-15T16:30:25.345Z"
+    },
+    {
+      "id": 6,
+      "description": "Compra de materiais de escritório",
+      "type": "outcome",
+      "category": "Despesas",
+      "price": 800,
+      "createdAt": "2022-08-20T12:10:40.999Z"
+    },
+    {
+      "id": 7,
+      "description": "Treinamento para equipe",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 3000,
+      "createdAt": "2022-08-25T09:05:20.111Z"
+    },
+    {
+      "id": 8,
+      "description": "Venda de aplicativo",
+      "type": "income",
+      "category": "Tecnologia",
+      "price": 18000,
+      "createdAt": "2022-08-30T20:00:00.222Z"
+    },
+    {
+      "id": 9,
+      "description": "Conta de energia elétrica",
+      "type": "outcome",
+      "category": "Utilidades",
+      "price": 1200,
+      "createdAt": "2022-09-05T07:50:33.444Z"
+    },
+    {
+      "id": 10,
+      "description": "Licenciamento de software",
+      "type": "income",
+      "category": "Produto",
+      "price": 5000,
+      "createdAt": "2022-09-10T13:15:45.666Z"
+    },
+    {
+      "description": "Desenvolvimento de FrontEnd",
+      "category": "Tecnologia",
+      "price": 12000,
+      "type": "income",
+      "createdAt": "2025-02-24T06:19:28.805Z",
+      "id": 11
+    },
+    {
+      "description": "Pizza",
+      "category": "Alimentação",
+      "price": 50,
+      "type": "outcome",
+      "createdAt": "2025-02-24T06:34:41.577Z",
+      "id": 12
+    },
+    {
+      "description": "Iogurte de banana",
+      "category": "Alimento",
+      "price": 15,
+      "type": "outcome",
+      "createdAt": "2025-02-24T06:39:03.962Z",
+      "id": 13
+    },
+    {
+      "description": "Venda de app de carros",
+      "category": "Tecnologia",
+      "price": 50000,
+      "type": "income",
+      "createdAt": "2025-02-24T06:39:22.310Z",
+      "id": 14
+    }
+  ]
+}
